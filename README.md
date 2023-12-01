@@ -13,14 +13,14 @@ I'm Dharshini, a passionate front-end developer💻  with a love for creating in
 
 ## 🌐 View all my Projects On
 All my projects are available at:<br>
-https://github.com/Dharshini-S12
+https://github.com/Dharshini-S12<br>
 Excited to share more share more projects!✨
 
 ## ✍️ View all my Blogs On
 All my Articles are available at:<br>
 https://medium.com/@dharshiniselvaraj12122003
 
-##  Contact me at
+## ☎️ Contact me at
 - Email: dharshiniselvaraj12122003@gamil.com
 - LinkedIn: http://www.linkedin.com/in/dharshini-selvaraj
 
