@@ -1,3 +1,6 @@
-# Dharshini
-<h1>Dharsh</h1>
-<p>Dharsh</p>
+<h1 class="heading">Hey all,This is Dharshini here!👋</h1>
+<style>
+  .heading{
+    text-align: center;
+    }
+</style>
