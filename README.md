@@ -6,8 +6,8 @@ I'm Dharshini, a passionate front-end developer💻  with a love for creating in
 
 
 ## 🚀 My Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Tools:** Git, VS Code
+- **Languages:** HTML, CSS, JavaScript,ReactJS
+- **Tools:** GitHub, VS Code
 - **Design:** Figma
 - **Deploy:** Netlify, Vercel
 
